@@ -12,8 +12,13 @@
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joynie12/Platforms"
+  },
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/Joynie12/Platforms#readme",
   "devDependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.3",
